@@ -1,2 +1,3 @@
 # wc_express
-lightweight express server
+
+express server for webcredits
