@@ -1,6 +1,6 @@
 {
   "name": "wc_express",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "webcredits express",
   "main": "index.js",
   "scripts": {
